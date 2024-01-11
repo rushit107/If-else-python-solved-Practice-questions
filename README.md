@@ -1,1 +1,1 @@
-Here are some solved examples of Ifelse in python. solved using Functions and without functions. I am no pro just a anyother lad learning. Lets continue to learn.
+Here are some solved examples of Ifelse in python  solved using Functions and without Functions. I am no pro i am also in the procss of Learning, Lets continue to learn.
